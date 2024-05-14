@@ -1,4 +1,7 @@
 # Sync Team
+
+One day wandering around youtube..
+![ss](/asset/Screenshot_2024-05-1_12-27-26.jpg).
 Sync Team is a dynamic collaborative platform designed for seamless real-time code sharing and collaboration among multiple users. 
 Whether you're working on a programming project, troubleshooting code, or brainstorming ideas, Sync Team empowers teams to work together efficiently, regardless of physical location. With its intuitive interface and robust features, Sync Team fosters productivity and fosters innovation by enabling instant communication, synchronized editing, and shared code execution. Say goodbye to version control headaches and embrace the power of synchronized teamwork with Sync Team.
 
