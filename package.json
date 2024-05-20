@@ -1,6 +1,7 @@
 {
   "name": "sync-team",
   "version": "0.1.0",
+  "homepage":"https://github.com/amanraox/Sync-Team",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
@@ -20,6 +21,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start:front": "react-scripts start",
     "start": "npm run build && npm run server:prod",
     "build": "react-scripts build",
